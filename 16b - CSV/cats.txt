@@ -1,0 +1,3 @@
+Cat name,Colour,Date of birth
+Annie,Tortoiseshell,2019-08-15
+Neo,Black and white,2019-08-15

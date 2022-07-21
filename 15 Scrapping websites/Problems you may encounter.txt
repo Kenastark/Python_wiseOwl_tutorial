@@ -1,0 +1,29 @@
+PROBLEMS YOU MAY ENCOUNTER
+
+1. Legal and ethical issues
+https://monopoply.mcdonalds.co.uk/
+
+2. Understanding the HTML 
+https://www.premierleague.com/
+
+
+3. Client script and single page applications 
+https://www.bbc.co.uk/
+This site cannot be scrapped unless using a specialist tool like selenium 
+
+4. Password protection
+https://www.americanexpress.com/en-gb/account/login
+
+5. Captchas
+
+6. Which is the correct HTML version?
+    i. What you see on a mobile might be different from what is    seen on a laptop. 
+    ii. Turning JavaScript off also affects this. 
+    iii.The website might be using A B testing which serves different versions of a website and gauge from the users reaction which one to keep. 
+    iv. Cookies also affect what you see
+
+7. Which scraper to use
+They are three main choice:
+i. BeautifulSoup
+ii. Scrapy
+iii. Selenium (difficult but very powerful. Helps your web scrapper to behave more like a human being)

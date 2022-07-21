@@ -1,0 +1,14 @@
+Microsoft VBA COM (Component Object Model) allows VBA applications to talk to each other, which means python applications can talk to VBA too.
+
+If you are going to write a program within Excel VBA, the objects you will be maniputlating will be workbooks and Chats. 
+
+If you are working within PowerPoint, you'll be manipulating Presentations
+
+If you are working within Word, you'll be manipulating Documents, characters and tables.
+
+Within Projects, you'll be working with Gnatt charts, timelines.
+
+Within Access, you'll be working with Tables and recordsets, etc.
+
+Each of these applications has a COM which says what sort of thing that that applications provides which you can manipulate in other programs.
+

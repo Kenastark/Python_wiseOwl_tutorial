@@ -1,0 +1,5 @@
+Python openpyxl lets you Read and Write Excel workbooks and manipulate cells without using Excel or VBA.
+
+Python and VBA uses "win32com.client which lets you get access to the COM object model in Excel, letting you write standard VBA code from within Python
+
+Python and Pandas uses "pandas" and lets you Read Excel data into dataframes, process the data and write it back to Excel.

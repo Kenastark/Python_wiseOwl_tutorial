@@ -1,0 +1,35 @@
+
+USEFUL LINKS
+More about the data type size aliases used by numoy
+https://numpy.org/doc/stable/reference/arrays.scalars.html#sized-aliases
+
+Numpy is a library that lets you work with arrays 
+
+When specifying the shape of an array:
+    i. if one argument is given eg (10,), it is the number of columns
+    ii. if two arguments are given eg (10,2), the first argument becomes the row per say while the second the no. of columns
+    iii. If three are given, eg(2,5,8) the first becomes the no. of array, the second becomes the no. of rows in each of the two arrayd and the third argument is the no. of columns per say or axes.
+
+ADVANTAGES OF NumPy
+1. It's quick (written in another language and compiled ,maybe C#).
+2. Lots of built-in functions for arrays.
+3. Used as basis for other modules (eg) Pandas.
+
+Arrays do not have commas between the elements in it otherwise it would be a list.
+
+There is no concept of a list having the same data type for each element. That means a list can have different data types for each element.
+
+Arrays will look down the list of objects to be stored in it and always allocate the amount of bytes stored by the most memory intensive element
+
+WAYS TO CREATE Arrays
+1. Using 'arange' (equivalent of 'range' for arrays)
+2. Using 'linaspace' to fill space with number of data points
+3. Generating an empty arrays
+4. Generating arrays of 0s and arrays of 1s
+5. Generating arrays of random numbers
+6. Filling arrays from iterations or sequences
+
+
+MATRIX MULTIPLICATION
+you can multiply two matrices together provided that the inner pair indices are the same. That is, the columns of the first matrix are the same as the row of the second matrix
+

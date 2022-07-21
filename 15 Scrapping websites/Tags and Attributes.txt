@@ -1,0 +1,19 @@
+ <div></div>tags stands for a block of text
+
+ <img style="border: 0; width: 100px;" src="wiseowl-logo.png"  alt="Wise Owl logo" width="100">
+
+ this image tag has four attribute
+ 1. style: Says how it appears
+ 2. src: where the picture is coming from
+ 3. alt: what will appear in a tooltip when mouse moves linger over it
+ 4. width: how wide the image will appear
+
+ELEMENTS or ids
+#table-box means that all element that has an id attribute of
+table-box then format it with the properties given in-between the{}
+
+ CLASSES
+ You use class when you dont just want a single tag to appear 
+ in a certain way you want anything belonging to that group. 
+ They are a great way to set general changes for all the elements 
+ of a particular type.

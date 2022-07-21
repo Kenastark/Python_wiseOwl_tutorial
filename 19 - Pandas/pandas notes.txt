@@ -1,0 +1,26 @@
+With Pandas you can do the following:
+1. Import data(CSV, EXcel)
+2. Create formulas
+3. Charting (MatPlotLib)
+4. Pivot data
+
+The building blocks of pandas are:
+1. Dataframes consists of a set of rows
+2. Series consists of the data itself from the columns but excluding the column title. Series is a sub-set of a Dataframe
+
+Why Pandas beats Excel
+1. Less limited by size
+2. More tools for analysis, data cleaning, etc
+3. Free
+4. Gives you a chance to practise Python
+
+Why Excel beats Pandas
+1. You can see what you're doing on screen
+2. Bigger use base
+3. Much quicker to do things
+
+
+
+
+
+

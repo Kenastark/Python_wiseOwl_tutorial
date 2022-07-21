@@ -1,0 +1,6 @@
+
+StackOverflow article on looping over lines being a generator:
+https://stackoverflow.com/questions/31671685/iterating-over-lines-in-a-file-python
+
+Biggest countries in the world
+https://www.worldometers.info/geography/largest-countries-in-the-world/
